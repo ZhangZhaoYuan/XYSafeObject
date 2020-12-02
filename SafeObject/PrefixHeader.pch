@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  XYSafeObject
+//
+
+//  Created by XYMac on 2020/12/2.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Foundation/Foundation.h>
+
+
+#endif /* PrefixHeader_pch */
