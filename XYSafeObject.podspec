@@ -8,7 +8,7 @@
     s.authors      = { "ZhangZhaoYuan" => "385893826" }
     s.platform     = :ios, '9.0'
     s.source       = {:git => 'https://github.com/ZhangZhaoYuan/XYSafeObject.git', :tag => s.version}
-    s.source_files = 'XYSafeObject/**/*'
+    s.source_files = 'STRowLayout/**/*.{h,m}'
     s.requires_arc = true
     s.description  = <<-DESC
                           XYSafeObject iOS防crash处理
