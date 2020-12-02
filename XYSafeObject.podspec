@@ -11,7 +11,9 @@
     s.source_files = 'XYSafeObject/**/*'
     s.requires_arc = true
     s.description  = <<-DESC
+                          XYSafeObject iOS防crash处理
+                   DESC
 
-    YDModel is for easier to use
+    XYSafeObject is for easier to use
     DESC
     end
