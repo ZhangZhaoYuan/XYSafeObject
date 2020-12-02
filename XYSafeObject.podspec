@@ -10,10 +10,4 @@
     s.source       = {:git => 'https://github.com/ZhangZhaoYuan/XYSafeObject.git', :tag => s.version}
     s.source_files = 'STRowLayout/**/*.{h,m}'
     s.requires_arc = true
-    s.description  = <<-DESC
-                          XYSafeObject iOS防crash处理
-                   DESC
-
-    XYSafeObject is for easier to use
-    DESC
     end
